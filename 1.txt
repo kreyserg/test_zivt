@@ -4,3 +4,4 @@ line 3
 line 4
 line 5 from local
 line 6 from local
+line 7 from remote branch main
